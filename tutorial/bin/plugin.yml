@@ -1,0 +1,10 @@
+main: tutorial_pack.tutorial_class
+name: tutorial
+version: 1.0
+author: TerraMC
+api-version: 1.15
+
+commands:
+  ts:
+  tm:
+  next:

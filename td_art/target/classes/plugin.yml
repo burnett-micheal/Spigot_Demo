@@ -1,0 +1,17 @@
+main: td_pack.td_class
+name: towndata
+version: 1.0
+author: TerraMC
+api-version: 1.15
+depend: [Towny]
+
+commands:
+  declare:
+  war:
+  test:
+  overworld:
+  testing:
+  dl:
+  b:
+  bounty:
+  shop:

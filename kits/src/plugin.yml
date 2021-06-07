@@ -1,0 +1,7 @@
+main: kits_pack.kits_class
+name: Kits
+version: 1.0
+author: TerraMC
+
+commands:
+  once:
